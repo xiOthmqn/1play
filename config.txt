@@ -1,0 +1,7 @@
+?token=NTM1MTQ4NzIxMDM0MzYyODgw.DyOxow.PXNUrDvrMqR0oJVNSLUeAdWiaW4
+owner=525663843771351046
+prefix= 1
+game= Type 1help
+stayinchannel=false 
+songinstatus=false  
+token=NTM1MTQ4NzIxMDM0MzYyODgw.DyOxow.PXNUrDvrMqR0oJVNSLUeAdWiaW4
